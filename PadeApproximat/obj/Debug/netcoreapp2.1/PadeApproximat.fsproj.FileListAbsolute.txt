@@ -1,0 +1,8 @@
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\bin\Debug\netcoreapp2.1\PadeApproximat.deps.json
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\bin\Debug\netcoreapp2.1\PadeApproximat.runtimeconfig.json
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\bin\Debug\netcoreapp2.1\PadeApproximat.runtimeconfig.dev.json
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\bin\Debug\netcoreapp2.1\PadeApproximat.dll
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\obj\Debug\netcoreapp2.1\PadeApproximat.fsprojAssemblyReference.cache
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\bin\Debug\netcoreapp2.1\PadeApproximat.pdb
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\obj\Debug\netcoreapp2.1\PadeApproximat.dll
+C:\Users\arman\source\repos\PadeApproximat\PadeApproximat\obj\Debug\netcoreapp2.1\PadeApproximat.pdb
